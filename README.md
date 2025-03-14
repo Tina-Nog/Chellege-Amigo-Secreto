@@ -17,4 +17,10 @@ Este repositório foi criado com muito carinho para trabalhar no desafio do Amig
 - **CSS** 
 - **JavaScript** 
 
-🔧 Como Executar o Projeto
+---
+## 👻 **Como Era o Projeto** 👻
+
+No início, o projeto tinha uma estrutura básica, sem muitos recursos ou animações. O objetivo era apenas permitir que o usuário adicionasse nomes e realizasse um sorteio simples, com a lista de participantes exibida de forma estática. 
+
+
+
