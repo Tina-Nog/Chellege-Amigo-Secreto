@@ -22,5 +22,5 @@ Este repositório foi criado com muito carinho para trabalhar no desafio do Amig
 
 No início, o projeto tinha uma estrutura básica, sem muitos recursos ou animações. O objetivo era apenas permitir que o usuário adicionasse nomes e realizasse um sorteio simples, com a lista de participantes exibida de forma estática. 
 
-
+![Image](https://github.com/user-attachments/assets/ec79689c-27b1-4fa5-adb3-32e9e4619250)
 
