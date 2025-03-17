@@ -27,3 +27,9 @@ No início, o projeto tinha uma estrutura básica, sem muitos recursos ou anima�
 ---
 ## 🖌️ **Como Está o Projeto Agora** 🖌️ 
 Atualmente, o design do projeto foi significativamente aprimorado. A paleta de cores foi inspirada no filme Divertidamente 2, trazendo um visual vibrante e cheio de energia. As cores escolhidas transmitem sensações de alegria, empolgação e otimismo, criando uma atmosfera leve e divertida. Essa paleta utiliza tons vivos e contrastantes, como o azul, verde, rosa e amarelo, que representam diferentes emoções de forma lúdica e dinâmica.
+
+![Image](https://github.com/user-attachments/assets/c013ec6b-6507-412f-a4aa-5605d932a924)
+
+---
+## 🎬 **Como Funciona (vídeo)** 🎬
+Para mostrar como o projeto funciona na prática, gravei um vídeo demonstrando as funcionalidades
