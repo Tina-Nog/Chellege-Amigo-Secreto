@@ -33,3 +33,5 @@ Atualmente, o design do projeto foi significativamente aprimorado. A paleta de c
 ---
 ## 🎬 **Como Funciona (vídeo)** 🎬
 Para mostrar como o projeto funciona na prática, gravei um vídeo demonstrando as funcionalidades
+
+https://github.com/user-attachments/assets/8e058b1c-52a3-4868-adcc-0d6a1ffe14d1
